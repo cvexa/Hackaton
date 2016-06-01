@@ -1,4 +1,5 @@
 <?php
+echo "hello";
 class Battery{
 	public $battery_name;
 	public $battery_type;
